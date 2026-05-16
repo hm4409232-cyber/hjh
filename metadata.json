@@ -1,0 +1,6 @@
+{
+  "name": "Barvi Academy Faisalabad",
+  "description": "Student management system for Barvi Academy Faisalabad, featuring student registration, dashboard, and record tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
